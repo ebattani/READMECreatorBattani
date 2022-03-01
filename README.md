@@ -1,7 +1,7 @@
 # READMECreatorBattani
 
-# asd
-    ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/asd/asd?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/asd/asd?style=flat&logo=appveyor)
+# Read Me Creator
+    ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/ebattani/READMECreatorBattani?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/ebattani/READMECreatorBattani?style=flat&logo=appveyor)
     
     ## License Badge = ![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)];
 
@@ -10,8 +10,8 @@
     ## Description 
     
     *The what, why, and how:* 
-    
-    asd
+    A quick ReadMe creator for use on github.
+
     ## Table of Contents
     * [Installation](#installation)
     * [Usage](#usage)
@@ -23,25 +23,25 @@
     
     *Steps required to install project and how to get the development environment running:*
     
-    asd
+    The user should clone the repository from GitHub and download Node. This application also requires a file system and inquirer module.
     
     ## Usage 
     
     *Instructions and examples for use:*
     
-    asd
+    See Below
     
     ## Contributing
     
     *If you would like to contribute it, you can follow these guidelines for how to do so.*
     
-    asd
+    No contributing information.
     
     ## Tests
     
     *Tests for application and how to run them:*
     
-    asd
+    Node Index.js to ensure proper generation
     
     ## License
     
@@ -50,9 +50,9 @@
     ---
     
     ## Questions?
-    <img src="https://avatars.githubusercontent.com/u/16872945?v=4" alt="ASD" width="40%" />
+    <img src="https://avatars.githubusercontent.com/u/94639814?v=4" alt="ebattani" width="40%" />
     
     For any questions, please contact me with the information below:
    
-    GitHub: [@ASD](https://api.github.com/users/ASD)
+    GitHub: [@ebattani](https://api.github.com/users/ebattani)
     
