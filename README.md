@@ -1,10 +1,6 @@
 # READ ME CREATOR
 
-  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/ebattani/asd?style=flat&logo=appveyor) 
-    
-  ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/ebattani/asd?style=flat&logo=appveyor)
-    
-  [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+  ![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
   ![License: AGPL v3](https://www.gnu.org/licenses/agpl-3.0)
     
