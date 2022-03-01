@@ -1,57 +1,64 @@
-# asd
-![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/ebattani/asd?style=flat&logo=appveyor) 
-    
-![Badge for GitHub last commit](https://img.shields.io/github/last-commit/ebattani/asd?style=flat&logo=appveyor)
-    
-## License Badge = [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0);
+# READ ME CREATOR
 
-## License Link = ![License: AGPL v3](https://www.gnu.org/licenses/agpl-3.0);
+  ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/ebattani/asd?style=flat&logo=appveyor) 
     
-## Description 
+  ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/ebattani/asd?style=flat&logo=appveyor)
+    
+  ## License Badge = [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+
+  ## License Link = ![License: AGPL v3](https://www.gnu.org/licenses/agpl-3.0)
+    
+  ## Description 
+
+  This is an application that will auto complete a ReadMe file for your project. Simply enter in the information required.
+
+  ## Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [License](#license)
+    
+  ## Installation
+    
+  *How to install:*
+    
+  To get your own README, clone this repo to your local machine and download Node.JS. Run NPM install to install the inquirer and axios packages. 
 
 
+    
+  ## Usage 
+    
+  *Instructions:*
+    
+  You can start the application by running node index.js in the terminal.
 
-## Table of Contents
-* [Installation](#installation)
-* [Usage](#usage)
-* [Contributing](#contributing)
-* [Tests](#tests)
-* [License](#license)
+  This README will auto generate badges for licensing.
+
+  Simply follow the prompts in the terminal to have your README file completed.
     
-## Installation
+  ## Contributing
     
-*Steps required to install project and how to get the development environment running:*
+  *No contrubutions are available at this time.*
+
     
- asd
+  ## Tests
     
- ## Usage 
+  *How to run application/tests:*
     
-*Instructions and examples for use:*
+  Run all tests in the terminal. 
     
-asd
+  ## License
     
- ## Contributing
+  GNU AGPLv3
+  
+  ---
     
-*If you would like to contribute it, you can follow these guidelines for how to do so.*
-    
- asd
-    
-## Tests
-    
-*Tests for application and how to run them:*
-    
-asd
-    
-## License
-    
-GNU AGPLv3
-    
----
-    
-## Questions?
-For any questions, please contact me with the information below:
+  ## Questions?
+  For any questions, please contact me:
    
-GitHub: [@ebattani](https://api.github.com/users/ebattani)
-    
- Email: null
-    
+  GitHub: [@ebattani](https://api.github.com/users/ebattani)
+
+  Email: battaniethan@gmail.com
+
+  
